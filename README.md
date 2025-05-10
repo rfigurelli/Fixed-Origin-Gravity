@@ -4,7 +4,7 @@
 **Author:** Rogério Figurelli
 **Date:** May 10, 2025
 
-### Executive Summary
+### Executive Summary 
 
 This paper presents an original theoretical framework for detecting non-luminous masses via gravitational inversion using absolute inertial coordinates. The concept of a **Virtual Gravity Telescope** is introduced to interpret gravitational signatures derived from motion, aiming to reveal hidden mass distributions.
 
