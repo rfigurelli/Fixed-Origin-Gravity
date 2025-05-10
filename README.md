@@ -17,4 +17,4 @@ This is a purely theoretical framework, with no experimental data, simulations, 
 ---
 
 ➡️ **The full content is available at the following link:**
-[Fixed-Origin Gravity White Paper v1.0.2](https://github.com/rfigurelli/Fixed-Origin-Gravity/blob/main/Fixed-Origin_Gravity_White_Paper_v1_0.md)
+[Fixed-Origin Gravity White Paper v1.0](https://github.com/rfigurelli/Fixed-Origin-Gravity/blob/main/Fixed-Origin_Gravity_White_Paper_v1_0.md)
